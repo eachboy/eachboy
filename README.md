@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello world👋
 
-<!--
-**eachboy/eachboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eachboy&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eachboy&show_icons=true&theme=gruvbox)
+
+## Last releases
+
+### Chess_with_voice
+- Version: 1.0
+- Under development
+## Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino)
+![HTML5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=4F7DB3)
+![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
+
+## Follow me
+
+![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
+![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)
+![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=twitter)
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)
