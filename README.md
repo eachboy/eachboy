@@ -22,7 +22,7 @@
 
 ## Follow me
 
-![https://vk.com/eachboy](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)
+![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
 ![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)
 ![Twitter](https://img.shields.io/badge/-twitter-090909?style=for-the-badge&logo=twitter)
