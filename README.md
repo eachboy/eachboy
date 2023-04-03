@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin)
 
-## Follow me
+## Find me
 
 ![Vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
