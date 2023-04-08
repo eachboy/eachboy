@@ -9,7 +9,7 @@
 ## Last releases
 
 ### Chess_with_voice
-- Version: 1.0
+- Version: 2.0
 - Under development
 ## Languages & Tools
 
