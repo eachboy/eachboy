@@ -1,9 +1,6 @@
 # Hello world👋
 
 ## Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eachboy&theme=dark&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eachboy&show_icons=true&theme=gruvbox)
 
 ## Last releases
