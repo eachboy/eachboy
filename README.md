@@ -15,9 +15,9 @@
 
 ### 🛠️ Стек и инструменты
 
-- **Языки**: TypeScript, JavaScript, Python, Kotlin, C/C++ (Arduino), HTML5, CSS3  
+- **Языки**: Python, C/C++ (Arduino), TypeScript, JavaScript, Kotlin, HTML5, CSS3  
 - **Frontend**: React, Next.js, TailwindCSS / CSS‑модули  
-- **Backend / API**: Node.js, REST API  
+- **Backend / API**: Node.js, REST API, FastAPI  
 - **Embedded / Hardware**: Arduino, прототипирование устройств  
 - **Инструменты**: Git, GitHub Actions, VS Code, Docker
 
@@ -34,26 +34,26 @@
 
 ### 📊 GitHub активность
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=eachboy&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=eachboy&theme=tokyonight&hide_border=true" 
-    alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eachboy&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top languages"
-  />
-</p>
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=eachboy&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="GitHub stats"
+    />
+  </p>
+  
+  <p align="center">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=eachboy&theme=tokyonight&hide_border=true" 
+      alt="GitHub streak"
+    />
+  </p>
+  
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eachboy&layout=compact&theme=tokyonight&hide_border=true" 
+      alt="Top languages"
+    />
+  </p>
 
 ---
 
@@ -77,7 +77,7 @@
 
 ### 🐍 Немного анимации
 
-> Змейка, «поедающая» коммиты, чтобы профиль не скучал 🙂
+> Змейка, которая не завтракала...
 
 <p align="center">
   <img 
@@ -94,4 +94,3 @@
 - **YouTube**: [`youtube.com/@eachboy`](https://youtube.com/@eachboy)  
 - **X (Twitter)**: [`x.com/eachboy47`](https://x.com/eachboy47)  
 
-Если тебе интересны расписания, UI‑эксперименты или голосовые интерфейсы — смело пиши 🙂
